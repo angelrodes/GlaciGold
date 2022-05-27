@@ -204,8 +204,8 @@ set(gca, 'YScale', 'log')
 ylim([1e2 1e8])
 grid on
 box on
-ylabel('Exumation age (years)')
+ylabel('Exhumation age (years)')
 % xlabel([consts.nuclidesstring{consts.nuclides==nuclide} ' ASEA'])
-xlabel([consts.nuclidesstring{consts.nuclides==nuclide} ' Apparent Surface Exposure Aage'])
+xlabel([consts.nuclidesstring{consts.nuclides==nuclide} ' Apparent Surface Exposure Age'])
 title('GlaciGold ages')
 
