@@ -13,6 +13,9 @@ The model assumes that the gold is located under a layer of water (river bed) du
 
 Local deglaciation ages are used to calculate glacial and interglacial stages based on the variations of the Oxygen-isotope curve.
 
+![Screenshot at 2022-05-27 10-46-28](https://user-images.githubusercontent.com/53089531/170665070-cb782032-575d-4f74-987c-e3d7f5348f0e.png)
+
+
 ## Input parameters
 
 Input parameters and Apparent Surface Exposure Ages (ASEA) can be changed at the "Input parameters" section in the main script ```GlaciGold_v1.m```.
