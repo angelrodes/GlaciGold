@@ -1,4 +1,4 @@
-# GLACIGOLD
+# GlaciGold
 
 The GLACIGOLD script simulates the accumulation of cosmogneic isotopes in gold grains in placer deposits in glaciated areas.
 
